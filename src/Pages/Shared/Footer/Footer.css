@@ -1,0 +1,25 @@
+.footer-bg {
+    background-color: black;
+
+}
+
+li>a {
+    text-decoration: none;
+    color: white;
+}
+
+.footer-copyright {
+    color: red;
+}
+
+/* .follow-icon-twt {
+    color: white
+} */
+
+.follow-icon-twt:hover {
+    color: #00ACEE !important
+}
+
+.follow-icon-fb:hover {
+    color: #4267B2 !important
+}
